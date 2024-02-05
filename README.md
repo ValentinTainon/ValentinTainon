@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">A full-stack developer from France, passionate about dev, hardware and the digital world</h3>
+<h3 align="center">A full-stack developer from France and tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentintainon&label=Profile%20views&color=0e75b6&style=flat" alt="valentintainon" /> </p>
 
