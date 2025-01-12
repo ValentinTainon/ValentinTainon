@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/mzUzjYre9DuKbJ5Ds8h8LskiaYtt6Mqz5gbrfeQkUng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkS25XZnRK/SEYvaWRQcHJyc282/My5wbmc_dXBkYXRl/ZD0xNzE3ODc1OTg5/NDE2" alt="symfony" width="40" height="40"/> 
   </a>  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
